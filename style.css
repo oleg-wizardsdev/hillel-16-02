@@ -8,8 +8,10 @@ body {
   background-color: blue;
   padding: 50px 20px;
   border: 1px solid black;
+  margin: 20px;
 }
 
 main {
+  display: flex;
   background-color: yellow;
 }
