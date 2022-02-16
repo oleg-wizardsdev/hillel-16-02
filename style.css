@@ -5,7 +5,11 @@
 }
 
 body {
-  background-color: red;
-  padding: 20px;
+  background-color: blue;
+  padding: 50px 20px;
   border: 1px solid black;
+}
+
+main {
+  background-color: yellow;
 }
